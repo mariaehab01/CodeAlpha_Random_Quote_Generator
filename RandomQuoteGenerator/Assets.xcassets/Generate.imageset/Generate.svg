@@ -1,0 +1,12 @@
+<svg width="88" height="40" xmlns="http://www.w3.org/2000/svg">
+	<!-- {"text":"Generate","font_family":"Arial","font_size":17,"font_weight":"bold","font_style":"italic","button_width":88,"button_height":40,"button_shadow":2,"border_width":0,"border_radius":10,"bg_color":"#ffc0cb","text_color":"black","border_color":"black","bg_hover_color":""} -->
+	<linearGradient id="bgColor1710787952" x1="0" x2="0" y1="0" y2="1">
+		<stop offset="50%" stop-color="#ffc0cb"/>
+		<stop offset="100%" stop-color="rgb(179,134,142)"/>
+	</linearGradient>
+	<rect x="2" y="2" width="86" height="38" rx="10" ry="10" fill="#666"/>
+	<rect id="rect1710787952" width="86" height="38" rx="10" ry="10" fill="url(#bgColor1710787952)" stroke-width="0" stroke="black"/>
+	<text x="43" style="pointer-events:none; user-select:none" y="25" text-anchor="middle" font-family="Arial" font-size="17" font-weight="bold" font-style="italic" fill="black">Generate</text>
+	<animate attributeName="stroke-width" from="2" to="0" begin="mousedown" href="#rect1710787952"/>
+	<animate attributeName="stroke-width" from="0" to="2" begin="mouseup" href="#rect1710787952"/>
+</svg>
