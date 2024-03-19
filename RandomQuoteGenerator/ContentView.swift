@@ -2,7 +2,8 @@
 //  ContentView.swift
 //  Random Quote Generator
 //
-//  Created by Maria Ehab on 18/03/2024.
+//  Created by Maria Ehab
+//
 
 
 import SwiftUI

@@ -2,7 +2,7 @@
 //  RandomQuoteGeneratorApp.swift
 //  RandomQuoteGenerator
 //
-//  Created by Maria Ehab on 19/03/2024.
+//  Created by Maria Ehab
 //
 
 import SwiftUI
